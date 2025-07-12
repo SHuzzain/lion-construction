@@ -18,7 +18,7 @@ import BlogItem from "@/components/blog";
 import CallToAction from "@/components/callToAction";
 import VideoBanner from "@/components/banner/videoBanner";
 import ProductItem from "@/components/product";
-import CarDealerSearchForm from "@/components/carDealerSearchForm";
+import CarDealerSearchForm from "@/components/carDealerSearchForm/index";
 import BrandCarouselOne from "@/components/brandCarousel";
 import TestimonialStyleThree from "@/components/testimonialCarousel/indexThree";
 
