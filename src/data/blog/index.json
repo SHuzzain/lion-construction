@@ -1,762 +1,96 @@
 [
   {
-    "settings": {
-      "thumbNail": true,
-      "video": false,
-      "audio": false,
-      "gallery": false,
-      "backgroundImage": false,
-      "backgroundNoImage": false,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
-    },
     "id": "1",
-    "admin": "Admin",
-    "title": "Renovating a Living Room? Experts Share Their Secrets",
-    "type": "REAL ESTATE",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying"],
-    "tag": ["Popular", "desgin", "ux"],
+    "title": "Construction Best Practices",
+    "shortDescription": "Learn about the latest construction techniques and best practices for modern building projects.",
+    "fullDescription": "Discover comprehensive insights into modern construction methodologies, safety protocols, and innovative building techniques that are shaping the future of the construction industry.",
     "thumbImg": "1.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "author": {
+      "name": "John Smith",
+      "img": "author.jpg",
+      "description": "Senior Construction Engineer with 15 years of experience in residential and commercial projects."
+    },
+    "date": "January 15, 2024",
+    "comments": 12,
+    "type": "Construction",
+    "category": ["construction", "tips"],
+    "featured": true,
+    "popular": true,
     "extraInformation": [
       {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+        "title": "Safety First",
+        "description": "Safety should always be the top priority in any construction project.",
         "hr": true
       }
     ],
     "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
+      { "name": "Use proper safety equipment" },
+      { "name": "Follow building codes" },
+      { "name": "Regular site inspections" }
     ],
     "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
+      "name": "Construction Expert",
+      "quoteTitle": "Quality construction is not about speed, it's about precision and attention to detail."
     },
     "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
+      "description1": "Modern construction techniques have evolved significantly over the past decade.",
+      "description2": "Technology plays a crucial role in today's building processes.",
+      "description3": "Sustainable building practices are becoming the industry standard.",
+      "description4": "The future of construction lies in smart building technologies.",
+      "title": "Innovation in Construction",
       "caption": {
         "img1": "31.jpg",
         "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
+        "imageCaption": "Modern construction site",
+        "imageCaptionDetails": "This image shows the latest construction techniques being implemented on a modern building site."
       }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
     }
   },
   {
-    "settings": {
-      "thumbNail": false,
-      "video": true,
-      "audio": false,
-      "gallery": false,
-      "backgroundImage": false,
-      "backgroundNoImage": false,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
-    },
     "id": "2",
-    "admin": "Admin",
-    "title": "7 home trends that will shape your house in 2021",
-    "type": "BUSINESS",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying", "selling"],
-    "tag": ["Popular", "desgin", "ux"],
+    "title": "Interior Design Trends 2024",
+    "shortDescription": "Explore the latest interior design trends that are defining modern living spaces in 2024.",
+    "fullDescription": "From sustainable materials to smart home integration, discover the interior design trends that are transforming how we live and work in our spaces.",
     "thumbImg": "2.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "extraInformation": [
-      {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      }
-    ],
-    "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
-    ],
-    "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
-    },
-    "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
-      "caption": {
-        "img1": "31.jpg",
-        "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
-      }
-    },
     "author": {
-      "name": "Ethan",
+      "name": "Sarah Johnson",
       "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
-    }
-  },
-  {
-    "settings": {
-      "thumbNail": false,
-      "video": false,
-      "audio": false,
-      "gallery": true,
-      "backgroundImage": false,
-      "backgroundNoImage": false,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
+      "description": "Award-winning interior designer specializing in residential and commercial spaces."
     },
-    "id": "3",
-    "admin": "Admin",
-    "title": "10 Brilliant Ways To Decorate Your Home",
-    "type": "BUSINESS",
+    "date": "January 10, 2024",
+    "comments": 8,
+    "type": "Interior Design",
+    "category": ["design", "trends"],
     "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying"],
-    "tag": ["Popular", "desgin", "ux"],
-    "thumbImg": "3.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "popular": false,
     "extraInformation": [
       {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+        "title": "Sustainable Design",
+        "description": "Eco-friendly materials are becoming increasingly popular in interior design.",
         "hr": true
       }
     ],
     "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
+      { "name": "Natural materials" },
+      { "name": "Energy-efficient lighting" },
+      { "name": "Sustainable furniture" }
     ],
     "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
+      "name": "Design Expert",
+      "quoteTitle": "Good design is not just about aesthetics, it's about creating spaces that enhance quality of life."
     },
     "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
+      "description1": "Interior design trends for 2024 focus on sustainability and wellness.",
+      "description2": "Smart home technology is seamlessly integrated into modern designs.",
+      "description3": "Biophilic design elements bring nature indoors.",
+      "description4": "Flexible spaces adapt to changing lifestyle needs.",
+      "title": "Future of Interior Design",
       "caption": {
         "img1": "31.jpg",
         "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
+        "imageCaption": "Modern interior design",
+        "imageCaptionDetails": "This showcases contemporary interior design with sustainable materials and smart technology integration."
       }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
-    }
-  },
-  {
-    "settings": {
-      "thumbNail": false,
-      "video": false,
-      "audio": true,
-      "gallery": false,
-      "backgroundImage": false,
-      "backgroundNoImage": false,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
-    },
-    "id": "4",
-    "admin": "Admin",
-    "title": "7 home trends that will shape your house in 2021",
-    "type": "BUSINESS",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying", "selling"],
-    "tag": ["Popular", "desgin", "ux"],
-    "thumbImg": "5.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "extraInformation": [
-      {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      }
-    ],
-    "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
-    ],
-    "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
-    },
-    "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
-      "caption": {
-        "img1": "31.jpg",
-        "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
-      }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
-    }
-  },
-  {
-    "settings": {
-      "thumbNail": false,
-      "video": false,
-      "audio": false,
-      "gallery": false,
-      "backgroundImage": false,
-      "backgroundNoImage": true,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
-    },
-    "id": "5",
-    "admin": "Admin",
-    "title": "10 Brilliant Ways To Decorate Your Home",
-    "type": "Decorate",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying", "selling"],
-    "tag": ["Popular", "desgin", "ux"],
-    "thumbImg": "4.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "extraInformation": [
-      {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      }
-    ],
-    "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
-    ],
-    "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
-    },
-    "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
-      "caption": {
-        "img1": "31.jpg",
-        "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
-      }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
-    }
-  },
-  {
-    "settings": {
-      "thumbNail": false,
-      "video": false,
-      "audio": false,
-      "gallery": false,
-      "backgroundImage": true,
-      "backgroundNoImage": false,
-      "blockquote": true,
-      "description": false,
-      "categories": false,
-      "author": false
-    },
-    "id": "6",
-    "admin": "Admin",
-    "title": "Excepteur sint occaecat cupida tat non proident, sunt in.",
-    "type": "BUSINESS",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying", "selling"],
-    "tag": ["Popular", "desgin", "ux"],
-    "thumbImg": "5.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "extraInformation": [
-      {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      }
-    ],
-    "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
-    ],
-    "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
-    },
-    "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
-      "caption": {
-        "img1": "31.jpg",
-        "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
-      }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
-    }
-  },
-  {
-    "settings": {
-      "thumbNail": true,
-      "video": false,
-      "audio": false,
-      "gallery": false,
-      "backgroundImage": false,
-      "backgroundNoImage": false,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
-    },
-    "id": "1",
-    "admin": "Admin",
-    "title": "Renovating a Living Room? Experts Share Their Secrets",
-    "type": "REAL ESTATE",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying", "selling"],
-    "tag": ["Popular", "desgin", "ux"],
-    "thumbImg": "1.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "extraInformation": [
-      {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      }
-    ],
-    "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
-    ],
-    "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
-    },
-    "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
-      "caption": {
-        "img1": "31.jpg",
-        "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
-      }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
-    }
-  },
-  {
-    "settings": {
-      "thumbNail": false,
-      "video": true,
-      "audio": false,
-      "gallery": false,
-      "backgroundImage": false,
-      "backgroundNoImage": false,
-      "blockquote": false,
-      "description": true,
-      "categories": true,
-      "author": true
-    },
-    "id": "2",
-    "admin": "Admin",
-    "title": "7 home trends that will shape your house in 2021",
-    "type": "BUSINESS",
-    "featured": true,
-    "new": true,
-    "rent": true,
-    "category": ["buying", "selling"],
-    "tag": ["Popular", "desgin", "ux"],
-    "thumbImg": "2.jpg",
-    "backgroundImage": "3.jpg",
-    "galleryImageList": [
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      },
-      {
-        "img": "1.jpg"
-      }
-    ],
-    "views": 232,
-    "comments": 35,
-    "date": "June 24, 2023",
-    "fullDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
-    "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "extraInformation": [
-      {
-        "title": "A cleansing hot shower or bath",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      },
-      {
-        "title": "Setting the mood with incense",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
-        "hr": true
-      }
-    ],
-    "extraInformationList": [
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      },
-      {
-        "name": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do"
-      }
-    ],
-    "blockquote": {
-      "quoteTitle": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
-      "name": "HETMAYAR"
-    },
-    "extraContent": {
-      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "description1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.",
-      "description2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus",
-      "description3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
-      "description4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur expedita velit laboriosam est sint laborum eos assumenda, quam voluptatem adipisci, reprehenderit ut nobis blanditiis perspiciatis!",
-      "caption": {
-        "img1": "31.jpg",
-        "img2": "32.jpg",
-        "imageCaption": "Image Caption Here",
-        "imageCaptionDetails": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, amet, fuga omnis eligendi sed cupiditate molestias enim autem animi est tempore ipsa corporis. Recusandae, quia."
-      }
-    },
-    "author": {
-      "name": "Ethan",
-      "img": "author.jpg",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation is enougn for today."
     }
   }
 ]
